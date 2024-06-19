@@ -1,3 +1,4 @@
+jupyterlab
 tqdm
 notebook==7.1.2
 openai
@@ -5,3 +6,9 @@ elasticsearch
 scikit-learn
 pandas
 ipykernel
+black
+black[jupyter]
+pylint
+pytest
+pytest-cov
+python-dotenv
