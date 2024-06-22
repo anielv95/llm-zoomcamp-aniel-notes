@@ -1,6 +1,6 @@
 # 1.2 Configuring Your Environment
 
-In this second section you're going to find:
+In this second section you're going to find
 
 1. How to configure github codespaces?
 2. What are the packages and libraries needed for this first module?

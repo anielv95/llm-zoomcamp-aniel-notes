@@ -1,5 +1,6 @@
 # 1.1 Introduction to LLM and RAG
-In this first section you'll find
+
+In this first section you'll find:
 
 1. What is an LLM? 
 2. What is a prompt?

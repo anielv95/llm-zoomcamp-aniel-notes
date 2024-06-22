@@ -1,7 +1,11 @@
-In this fourth section you're going to find:
 # Generating Answers with OpenAI GPT 4 0
 
-1. df
+In this fourth section you're going to find:
+
+1. We made a call to OpenAI
+2. We defined the prompt template
+3. We reformat the documents retrieved with minsearch 
+4. We generate the answer based on the question and the documents
 
 Video:
 
