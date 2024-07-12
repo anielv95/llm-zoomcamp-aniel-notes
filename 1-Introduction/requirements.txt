@@ -13,3 +13,5 @@ pytest
 pytest-cov
 python-dotenv
 tiktoken
+#-----------------------------
+sentence-transformers
