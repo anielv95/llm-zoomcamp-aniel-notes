@@ -16,3 +16,4 @@ tiktoken
 #-----------------------------
 sentence-transformers
 #huggingface_hub[cli]
+langchain-google-genai 
